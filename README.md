@@ -1,4 +1,4 @@
-# SocketProject_-Client_V1
+# SocketProject_Client_V1
 Socket 통신을 통한 식당 예약 프로그램 개발 토이 프로젝트<br/>
 <br/>
 -개요-<br/>
